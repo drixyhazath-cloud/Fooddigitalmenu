@@ -1,0 +1,6 @@
+{
+  "name": "Food Digital Menu (FDM) System & Hospitality Operations",
+  "description": "Digital food ordering and kitchen management system with Waiter terminal, Kitchen Display System (KDS), Admin financial reports, and remote operations task tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
